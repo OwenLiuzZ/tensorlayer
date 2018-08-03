@@ -125,7 +125,7 @@ class ResNetV1_50(Layer):
 
         self._add_layers(self.outputs)  # TODO: all tensors of all layers
 
-        all_params = # TODO
+        #all_params = # TODO
 
         self._add_params(all_params) #
 
